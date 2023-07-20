@@ -16,7 +16,7 @@ export default class Conversor extends Component{
 
     converter(){
 
-        console.log("convertido")
+        console.log(this.state)
     }
 
     render(){
